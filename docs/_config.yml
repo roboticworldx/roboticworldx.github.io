@@ -21,8 +21,8 @@
 title: A whole new robotic world
 description: >- # this means to ignore newlines until "baseurl:"
   A fun blog about developers, tech, llm machines, etc...
-domain: roboticworld.github.io
-url: "roboticworld.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""
 #twitter_username: jekyllrb
 #github_username:  jekyll
