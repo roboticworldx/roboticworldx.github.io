@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Introducing the Constructive Comment Filter"
-date:   2024-04-02 09:00:00 +0100
 categories: social
+tags: socialmedia ai llm constructivefeedback
 ---
 In the dynamic landscape of online discourse, comments can often diverge from constructive dialogue, veering into extremes of negativity, irrelevance, or excessive positivity. Take, for instance, the scenario of a YouTube video garnering mixed reactions. A comment excessively praising the content might lack substance, while a negative comment can be discouraging for content creators. Moreover, comments straying off-topic contribute little to the conversation, diminishing the overall value of the discussion.
 
