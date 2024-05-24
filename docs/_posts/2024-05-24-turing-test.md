@@ -3,6 +3,7 @@ layout: post
 title:  "The Turing Test"
 categories: ai
 tags: ai turing test
+image: /assets/exmachina.webp
 ---
 
 ![logo](/assets/exmachina.webp){: width="400" style="display:block; margin-left:auto; margin-right:auto;" }

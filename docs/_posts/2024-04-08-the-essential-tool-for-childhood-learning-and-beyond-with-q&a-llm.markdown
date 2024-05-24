@@ -3,6 +3,7 @@ layout: post
 title:  "The Essential Tool for Childhood Learning and Beyond with Q&A LLM"
 categories: social
 tags: ai llm notion education digitallearning
+image: /assets/notion-logo.png
 ---
 
 ![logo](/assets/notion-logo.png){: width="100" }

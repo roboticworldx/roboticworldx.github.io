@@ -3,6 +3,7 @@ layout: post
 title:  "Enhancing Call Context: The Pros and Cons of Displaying Caller Information and Intentions on Lock Screens"
 categories: social
 tags: ai llm callcontext incomingcalls privacy communication callerinformation phonesecurity callerID technology dataprivacy
+image: /assets/iphone-privacy.png
 ---
 
 What if we had more context when receiving incoming calls? This article explores the benefits and drawbacks of displaying caller names, locations, and call subjects/intentions on lock screens, along with the potential use of tags/labels for urgency and priority. Additionally, it discusses how Large Language Models (LLMs) could enhance this context-rich environment.
