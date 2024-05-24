@@ -1,30 +1,28 @@
 # Welcome to Jekyll!
 
-title: A whole new robotic world  
-description: A fun blog about developers, tech, llm machines, etc...
-domain: ""
+title: "A whole new robotic world"  
+description: "A fun blog about developers, tech, llm machines, etc..."
 url: "https://roboticworldx.github.io"
 baseurl: ""
-#twitter_username: jekyllrb
-#github_username:  jekyll
+domain: "https://roboticworldx.github.io"
+author: "RoboticWorldX"
+
+# Social settings
+twitter:
+  username: "RoboticWorldX"
+  card: "summary"
+social:
+  name: "RoboticWorldX"
+  links:
+    - "https://twitter.com/RoboticWorldX"
+    - "https://github.com/RoboticWorldX"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-author: RoboticWorldX
-
-twitter:
-  username: RoboticWorldX
-  card: summary
-social:
-  name: RoboticWorldX
-  links:
-    - https://twitter.com/RoboticWorldX
-    - https://github.com/RoboticWorldX
-
+  - jekyll-sitemap
 
 # Serving
 port: 4000
